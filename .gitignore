@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.bak
+*.deb
+report.html
+report.json
+.env
